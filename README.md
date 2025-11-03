@@ -3,7 +3,7 @@
 This project is a machine learning model that classifies book reviews into specific genres. It uses natural language processing (NLP) techniques
 to analyze review text and assign a genre based on keywords and content. The project follows a full NLP pipeline, from data preprocessing and feature engineering to model training and evaluation.
 
-# **🚀Project Plan and Methodology🚀**
+# **Project Plan and Methodology 🚀**
 
 The core of this project is to use the Review column as the feature and create a new Genre column as the label. The classification is performed by:
 
@@ -25,7 +25,7 @@ The core of this project is to use the Review column as the feature and create a
 
 **Performance Metrics:** Model performance is evaluated using both accuracy and balanced accuracy scores, the latter being particularly useful for imbalanced datasets.
 
-# **🧩Technologies and Libraries🧩**
+# **Technologies and Libraries 🧩**
 **Pandas:** Used for data manipulation, including loading the dataset and creating new columns.
 
 **NumPy:** Used for numerical operations.
@@ -36,7 +36,7 @@ The core of this project is to use the Review column as the feature and create a
 
 **Gensim:** Used for text preprocessing and tokenization.
 
-# **📓Dataset📓**
+# **Dataset 📓**
 BookReviewsDataSet.csv: The dataset used in the project, which contains book reviews.
 
 How to Run the Project
